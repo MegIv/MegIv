@@ -1,5 +1,6 @@
 ## Hi there 👋
-Jadi kerjaan selama 1 semester saya lampirkan disini, meski masih amburadul pakai github :)
+Jadi kerjaan selama ini dilampirkan disini, maklum pemula
+
 <!--
 **MegIv/MegIv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
